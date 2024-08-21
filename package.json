@@ -1,0 +1,36 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.6.4",
+        "laravel-vite-plugin": "^1.0",
+        "vite": "^5.0"
+    },
+
+    "name": "teconectapi",
+    "version": "1.0.0",
+    "description": "TeconectAPI é uma API open-source para a comunidade Teconect, facilitando a autenticação e gestão de usuários.",
+    "author": {
+      "name": "Vasco Pinto",
+      "email": "me@vascopinto.site",
+      "website": "https://vascopinto.site",
+      "phone": "+244 946 210 892"
+    },
+    "contributors": [
+      {
+        "name": "Vasco Pinto",
+        "email": "me@vascopinto.site",
+        "role": "Co-Fundador e Desenvolvedor"
+      }
+    ],
+    "contacts": {
+      "facebook": "https://www.facebook.com/vasco.gouveiapinto",
+      "email_alternative": "imarca.ao@gmail.com"
+    },
+    "license": "MIT"
+  }
+  
