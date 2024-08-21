@@ -69,13 +69,13 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 # TeconectAPI
 
-TeconectAPI é uma API open-source criada para a comunidade da Teconect, com o objetivo de simplificar a autenticação e gestão de usuários em aplicações modernas.
+TeconectAPI é uma API open-source criada para a comunidade da Teconect, com o objectivo de simplificar a autenticação e gestão de usuários em aplicações modernas.
 
-## Sobre o Projeto
+## Sobre o Projecto
 
 Este projeto foi desenvolvido como uma iniciativa open-source para apoiar desenvolvedores na comunidade Teconect, oferecendo uma solução eficiente e fácil de integrar para autenticação e gerenciamento de usuários.
 
-## Co-Fundador e Desenvolvedor
+## Co-Fundador 
 
 **Vasco Pinto**
 
@@ -87,8 +87,23 @@ Este projeto foi desenvolvido como uma iniciativa open-source para apoiar desenv
 ## Contactos Adicionais
 
 - **Email Alternativo:** [imarca.ao@gmail.com](mailto:imarca.ao@gmail.com)
+- **Email comunitário:** [add@teconectapi.it.ao](mailto:add@teconectapi.it.ao)
+- **Website:** [teconectapi.it.ao](https://teconectapi.it.ao)
 
-## Contribua com o Projeto
+# Contribuites
+
+**1. Vasco Pinto - Co-Fundador & Desenvolvedor Fullstack**
+
+
+# Patrocinador Oficial
+
+**1. Tecnideia - Ideias Tecnológias**
+
+- **Email:** [geral@tecnideia.ao](geral@tecnideia.ao)
+- **Website:** [tecnideia.ao](https://tecnideia.ao)
+
+
+## Contribua com o Projecto
 
 Se você deseja contribuir com o projeto, entre em contato através dos canais acima. Estamos sempre abertos a novas ideias e colaborações para melhorar a TeconectAPI e apoiar nossa comunidade.
 
